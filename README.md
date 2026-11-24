@@ -1,5 +1,8 @@
+`tl;dr just download the HTML page and open it.`
+
+
 # local-ai
-Make native local AI as easy to use as an ordinary chat website.
+Make native local AI as easy to use as an ordinary chat website.  
 Developer handoff · Standalone HTML proof of concept · 24 November 2026
 
 ## 1. Project purpose
